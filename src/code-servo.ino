@@ -1,4 +1,4 @@
-#define DOOR_SERVO1_PIN 6
+#define DOOR_SERVO1_PIN 3
 const int totalTime=20000; //durata totale del duty cycle
 const float timePerAngle=11.11;
 const int intercept = 500;
